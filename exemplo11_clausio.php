@@ -1,4 +1,4 @@
-***CLAUSIO OHANO ALVES 2&#176B"INFORMATICA***
+***CLAUSIO OHANO ALVES 2&#176B"INFORMATICA"&#169***
 <html>
 <head>
 <meta charset="utf-8"/>
