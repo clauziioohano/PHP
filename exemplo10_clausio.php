@@ -1,4 +1,4 @@
-1***CLÁUSIO OHANO ALVES 2°B"INFORMÁTICA***
+***CLÁUSIO OHANO ALVES 2°B"INFORMÁTICA***
 <html>
 <head>
 <meta charset="utf-8"/>
